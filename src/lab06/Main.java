@@ -37,7 +37,7 @@ public class Main {
 			} 
 			
 			else {
-				vacinaPessoa(sc, pessoas, comorbidades, profissoes, entrada);
+				vacinaPessoa(sc, pessoas, comorbidades, profissoes, idadeVacinacao);
 			}
 			menu();
 			entrada = sc.nextInt();
